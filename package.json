@@ -40,7 +40,7 @@
 		"@tensorflow/tfjs-backend-webgl": "^4.15.0",
 		"@tensorflow/tfjs-core": "^4.15.0",
 		"clsx": "^2.0.0",
-		"cookie": "^0.6.0",
+		"cookie": "^0.7.0",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"react-flip-toolkit": "^7.1.0",
